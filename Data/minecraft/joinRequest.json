@@ -1,0 +1,117 @@
+{
+    "joinIntention": "VANILLA",
+    "pingRegions": [
+        {
+            "latencyMs": 319,
+            "region": "australiaEast"
+        },
+        {
+            "latencyMs": 285,
+            "region": "australiaSoutheast"
+        },
+        {
+            "latencyMs": 199,
+            "region": "brazilSouth"
+        },
+        {
+            "latencyMs": 95,
+            "region": "canadaCentral"
+        },
+        {
+            "latencyMs": 154,
+            "region": "centralIndia"
+        },
+        {
+            "latencyMs": 116,
+            "region": "centralUs"
+        },
+        {
+            "latencyMs": 116,
+            "region": "centralUsEuap"
+        },
+        {
+            "latencyMs": 203,
+            "region": "eastAsia"
+        },
+        {
+            "latencyMs": 92,
+            "region": "eastUs"
+        },
+        {
+            "latencyMs": 93,
+            "region": "eastUs2"
+        },
+        {
+            "latencyMs": 20,
+            "region": "franceCentral"
+        },
+        {
+            "latencyMs": 260,
+            "region": "japanEast"
+        },
+        {
+            "latencyMs": 244,
+            "region": "japanWest"
+        },
+        {
+            "latencyMs": 247,
+            "region": "koreaCentral"
+        },
+        {
+            "latencyMs": 144,
+            "region": "mexicoCentral"
+        },
+        {
+            "latencyMs": 104,
+            "region": "northCentralUs"
+        },
+        {
+            "latencyMs": 33,
+            "region": "northEurope"
+        },
+        {
+            "latencyMs": 181,
+            "region": "southAfricaNorth"
+        },
+        {
+            "latencyMs": 130,
+            "region": "southCentralUs"
+        },
+        {
+            "latencyMs": 192,
+            "region": "southeastAsia"
+        },
+        {
+            "latencyMs": 42,
+            "region": "swedenCentral"
+        },
+        {
+            "latencyMs": 127,
+            "region": "uaeNorth"
+        },
+        {
+            "latencyMs": 14,
+            "region": "ukSouth"
+        },
+        {
+            "latencyMs": 139,
+            "region": "westCentralUs"
+        },
+        {
+            "latencyMs": 29,
+            "region": "westEurope"
+        },
+        {
+            "latencyMs": 175,
+            "region": "westUs"
+        },
+        {
+            "latencyMs": 146,
+            "region": "westUs2"
+        },
+        {
+            "latencyMs": 151,
+            "region": "westUs3"
+        }
+    ]
+}

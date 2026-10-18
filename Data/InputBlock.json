@@ -1,0 +1,10 @@
+[
+    {
+        "name": "input",
+        "description": "Realm code or ID to run operation on.",
+        "type": 3,
+        "min_length": 6,
+        "max_length": 17,
+        "required": true
+    }
+]

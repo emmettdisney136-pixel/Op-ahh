@@ -1,0 +1,180 @@
+{
+    "result": {
+        "serviceEnvironments": {
+            "persona": {
+                "prod": {
+                    "serviceUri": "https://persona-secondary.franchise.minecraft-services.net",
+                    "playfabTitleId": "20CA2"
+                }
+            },
+            "store": {
+                "prod": {
+                    "serviceUri": "https://store.mktpl.minecraft-services.net",
+                    "playfabTitleId": "20CA2",
+                    "eduPlayFabTitleId": "6955F"
+                }
+            },
+            "auth": {
+                "prod": {
+                    "serviceUri": "https://authorization.franchise.minecraft-services.net",
+                    "issuer": "https://authorization.franchise.minecraft-services.net",
+                    "playfabTitleId": "20CA2",
+                    "eduPlayFabTitleId": "6955F"
+                }
+            },
+            "signaling": {
+                "prod": {
+                    "serviceUri": "wss://signaling-tm-westeurope.franchise.minecraft-services.net",
+                    "stunUri": "stun:turn.azure.com:3478",
+                    "turnUri": "turn:turn.azure.com:3478"
+                }
+            },
+            "filetocloud": {
+                "prod": {
+                    "serviceUri": "https://client.support-files.minecraft-services.net"
+                }
+            },
+            "safety": {
+                "prod": {
+                    "serviceUri": "https://safety-secondary.franchise.minecraft-services.net"
+                }
+            },
+            "mpsas": {
+                "prod": {
+                    "serviceUri": "https://secondary.allocation.multiplayer.minecraft-services.net"
+                }
+            },
+            "gatherings": {
+                "prod": {
+                    "serviceUri": "https://gatherings-secondary.franchise.minecraft-services.net"
+                }
+            },
+            "messaging": {
+                "prod": {
+                    "serviceUri": "https://messaging.mktpl.minecraft-services.net"
+                }
+            },
+            "entitlements": {
+                "prod": {
+                    "serviceUri": "https://entitlements.mktpl.minecraft-services.net",
+                    "playfabTitleId": "20CA2"
+                }
+            },
+            "frontend": {
+                "prod": {
+                    "serviceUri": "https://client.allocation.multiplayer.minecraft-services.net"
+                }
+            },
+            "multiplayer": {
+                "prod": {
+                    "serviceUri": "https://secondary.multiplayer.minecraft-services.net"
+                }
+            },
+            "cdn": {
+                "prod": {
+                    "serviceUri": "https://cdn.gatherings.franchise.minecraft-services.net/public/"
+                }
+            },
+            "realmsfrontend": {
+                "prod": {
+                    "serviceUri": "https://frontend.realms.minecraft-services.net",
+                    "playfabTitleId": "20CA2"
+                }
+            },
+            "net": {
+                "prod": {
+                    "serviceUri": "https://net-secondary.web.minecraft-services.net"
+                }
+            },
+            "client_features": {
+                "prod": {
+                    "nxAccountLink": "false",
+                    "signInHeroMessage": "1"
+                }
+            },
+            "legacyrealms-frontend": {
+                "prod": {
+                    "serviceUri": "https://bedrock.frontendlegacy.realms.minecraft-services.net/"
+                }
+            },
+            "legacyrealms-payments": {
+                "prod": {
+                    "serviceUri": "https://paymentslegacy.realms.minecraft-services.net"
+                }
+            },
+            "realms_frontend_bedrock_legacy": {
+                "prod": {
+                    "serviceUri": "https://bedrock.frontendlegacy.realms.minecraft-services.net"
+                }
+            },
+            "realms_frontend_java_legacy": {
+                "prod": {
+                    "serviceUri": "https://java.frontendlegacy.realms.minecraft-services.net"
+                }
+            },
+            "realms_payments_legacy": {
+                "prod": {
+                    "serviceUri": "https://paymentslegacy.realms.minecraft-services.net"
+                }
+            },
+            "layout": {
+                "prod": {
+                    "serviceUri": "https://layout.mktpl.minecraft-services.net",
+                    "playfabTitleId": "20CA2"
+                }
+            },
+            "creatorregistration": {
+                "prod": {
+                    "serviceUri": "https://creatorreg.mktpl.minecraft-services.net"
+                }
+            },
+            "signaling-afd": {
+                "prod": {
+                    "serviceUri": "https://signaling-afd.franchise.minecraft-services.net"
+                }
+            },
+            "qos-beacons": {
+                "prod": {
+                    "australiaEast": "mpsqosprod.australiaeast.cloudapp.azure.com",
+                    "australiaSoutheast": "mpsqosprod.australiasoutheast.cloudapp.azure.com",
+                    "brazilSouth": "mpsqosprod.brazilsouth.cloudapp.azure.com",
+                    "canadaCentral": "mpsqosprod.canadacentral.cloudapp.azure.com",
+                    "centralIndia": "mpsqosprod.centralindia.cloudapp.azure.com",
+                    "centralUs": "mpsqosprod.centralus.cloudapp.azure.com",
+                    "centralUsEuap": "mpsqosprod.centralus.cloudapp.azure.com",
+                    "eastAsia": "mpsqosprod.eastasia.cloudapp.azure.com",
+                    "eastUs": "mpsqosprod.eastus.cloudapp.azure.com",
+                    "eastUs2": "mpsqosprod.eastus2.cloudapp.azure.com",
+                    "franceCentral": "mpsqosprod.francecentral.cloudapp.azure.com",
+                    "japanEast": "mpsqosprod.japaneast.cloudapp.azure.com",
+                    "japanWest": "mpsqosprod.japanwest.cloudapp.azure.com",
+                    "koreaCentral": "mpsqosprod.koreacentral.cloudapp.azure.com",
+                    "mexicoCentral": "mpsqosprod.mexicocentral.cloudapp.azure.com",
+                    "northCentralUs": "mpsqosprod.northcentralus.cloudapp.azure.com",
+                    "northEurope": "mpsqosprod.northeurope.cloudapp.azure.com",
+                    "southAfricaNorth": "mpsqosprod.southafricanorth.cloudapp.azure.com",
+                    "southCentralUs": "mpsqosprod.southcentralus.cloudapp.azure.com",
+                    "southeastAsia": "mpsqosprod.southeastasia.cloudapp.azure.com",
+                    "swedenCentral": "mpsqosprod.swedencentral.cloudapp.azure.com",
+                    "uaeNorth": "mpsqosprod.uaenorth.cloudapp.azure.com",
+                    "ukSouth": "mpsqosprod.uksouth.cloudapp.azure.com",
+                    "westCentralUs": "mpsqosprod.westcentralus.cloudapp.azure.com",
+                    "westEurope": "mpsqosprod.westeurope.cloudapp.azure.com",
+                    "westUs": "mpsqosprod.westus.cloudapp.azure.com",
+                    "westUs2": "mpsqosprod.westus2.cloudapp.azure.com",
+                    "westUs3": "mpsqosprod.westus3.cloudapp.azure.com"
+                }
+            },
+            "playercareapi": {
+                "prod": {
+                    "serviceUri": "https://care-api.playerops.minecraft-services.net"
+                }
+            }
+        },
+        "supportedEnvironments": {
+            "1.26.44": [
+                "prod"
+            ]
+        }
+    }
+}

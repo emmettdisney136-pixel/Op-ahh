@@ -1,0 +1,20 @@
+{
+  "server_id_conflict": "you are logged in on a different device.",
+  "not_allowed": "perxa has been rejected, this is normally due to sending packets too fast, please try again later.",
+  "bad_packet": "Bad packet, this happens when the client sends a bad packet to the server.",
+  "kicked": "Kicked.",
+  "disconnected": "Disconnected.",
+  "timeout": "Timeout.",
+  "connection_lost": "Connection lost.",
+  "outdated_client": "Outdated client.",
+  "outdated_server": "Outdated server.",
+  "unknown": "An unknown error occurred.",
+  "version_mismatch": "Version mismatch, please report this to a developer due to this been a internal bug.",
+  "skin_issue": "The client skin had a issue, please report this to a developer for a gift!",
+  "server_full": "Wow this server is popular! Check back later.",
+  "internal_server_error": "I'm sorry, but something went wrong on our end. Please try again later.",
+  "logged_in_other_location": "The same account logged into the realm while another instance was running, this caused a conflict.",
+  "unexpected_packet": "It appears perxa has sent a packet too fast and the server dropped our connection.",
+
+  "host_disconnected": "Nethernet peer suddenly closed, the realm has crashed."
+}

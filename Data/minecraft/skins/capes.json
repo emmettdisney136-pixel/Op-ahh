@@ -1,0 +1,156 @@
+{
+    "15th_anniversary": {
+        "PieceId": "7ed341e7-6bd3-44e2-8899-7ab99fad34e8",
+        "PieceType": "persona_capes",
+        "PackId": "7ed341e7-6bd3-44e2-8899-7ab99fad34e8",
+        "IsDefault": false,
+        "ProductId": "7118a7d5-240e-4f6d-8959-5269ba041938"
+    },
+    "builder": {
+        "PieceId": "bc3c0aa3-c170-b219-250b-3e4e8cc8a031",
+        "PieceType": "persona_capes",
+        "PackId": "bc3c0aa3-c170-b219-250b-3e4e8cc8a031",
+        "IsDefault": false,
+        "ProductId": "f3e77de1-3ab8-4a79-acce-b1bbf5c297a4"
+    },
+    "cherry": {
+        "PieceId": "0302ebba-bfeb-8748-3e66-03acd664c78f",
+        "PieceType": "persona_capes",
+        "PackId": "0302ebba-bfeb-8748-3e66-03acd664c78f",
+        "IsDefault": false,
+        "ProductId": "b9fb90bb-48a8-4c9f-97c5-43121f29ad84"
+    },
+    "common": {
+        "PieceId": "3b1f4153-8cec-4407-b287-83bc5962fd0b",
+        "PieceType": "persona_capes",
+        "PackId": "3b1f4153-8cec-4407-b287-83bc5962fd0b",
+        "IsDefault": false,
+        "ProductId": "99ea16b5-87fa-4bf1-b84d-1a97af77e23d"
+    },
+    "copper": {
+        "PieceId": "c092dcde-7bc1-ac79-5796-1106273398a6",
+        "PieceType": "persona_capes",
+        "PackId": "c092dcde-7bc1-ac79-5796-1106273398a6",
+        "IsDefault": false,
+        "ProductId": "b2b7e99f-e990-47eb-a26a-791c5d6228d3"
+    },
+    "crafter": {
+        "PieceId": "6f9ff976-a1a3-0b9a-118c-7604320381ef",
+        "PieceType": "persona_capes",
+        "PackId": "6f9ff976-a1a3-0b9a-118c-7604320381ef",
+        "IsDefault": false,
+        "ProductId": "eb67460a-a95d-4874-8cf0-5eea31642c7a"
+    },
+    "follower": {
+        "PieceId": "626c9afc-3d6b-4c90-826a-863996e76e9a",
+        "PieceType": "persona_capes",
+        "PackId": "626c9afc-3d6b-4c90-826a-863996e76e9a",
+        "IsDefault": false,
+        "ProductId": "76bb8cb2-f246-4b17-8cdd-37bfa62df2bd"
+    },
+    "founder": {
+        "PieceId": "1b99b77c-3caa-4aaa-8f79-f79f053e586f",
+        "PieceType": "persona_capes",
+        "PackId": "1b99b77c-3caa-4aaa-8f79-f79f053e586f",
+        "IsDefault": false,
+        "ProductId": "81286238-bf95-4752-b675-0793bd6107dd"
+    },
+    "home": {
+        "PieceId": "a4c83b58-b18e-0815-7ce7-1ec9182d8027",
+        "PieceType": "persona_capes",
+        "PackId": "a4c83b58-b18e-0815-7ce7-1ec9182d8027",
+        "IsDefault": false,
+        "ProductId": "a9514181-c826-4d72-bf36-f2379582d1ac"
+    },
+    "mcc_15th_year": {
+        "PieceId": "d9ad40f5-e119-4b2b-8077-cec04b923e60",
+        "PieceType": "persona_capes",
+        "PackId": "d9ad40f5-e119-4b2b-8077-cec04b923e60",
+        "IsDefault": false,
+        "ProductId": "5bbbeb79-5626-42e7-acbe-20ce4db8217d"
+    },
+    "menace": {
+        "PieceId": "3f4f5068-2c40-debb-b181-bdafad187859",
+        "PieceType": "persona_capes",
+        "PackId": "3f4f5068-2c40-debb-b181-bdafad187859",
+        "IsDefault": false,
+        "ProductId": "31951ea2-207a-4f3a-a14d-f92fdda0b18e"
+    },
+    "mojang_office": {
+        "PieceId": "24372814-36c0-4ac9-8de7-7086f504fa97",
+        "PieceType": "persona_capes",
+        "PackId": "24372814-36c0-4ac9-8de7-7086f504fa97",
+        "IsDefault": false,
+        "ProductId": "fb455ae5-6d2c-476e-82d1-6c8daab7b369"
+    },
+    "mojang_studios": {
+        "PieceId": "1b302e84-6da6-11ec-90d6-0242ac120003",
+        "PieceType": "persona_capes",
+        "PackId": "1b302e84-6da6-11ec-90d6-0242ac120003",
+        "IsDefault": false,
+        "ProductId": "4f156163-666c-4d3a-ace8-fc82ac8ac179"
+    },
+    "moonlight_trail": {
+        "PieceId": "fb61d2ba-2125-aca5-eda9-f3d9c7638205",
+        "PieceType": "persona_capes",
+        "PackId": "fb61d2ba-2125-aca5-eda9-f3d9c7638205",
+        "IsDefault": false,
+        "ProductId": "3185d1ea-d304-46dc-addf-bd6c6498ec71"
+    },
+    "one_vanilla": {
+        "PieceId": "fce20ac3-e80b-4c00-8230-d815c8a0665c",
+        "PieceType": "persona_capes",
+        "PackId": "fce20ac3-e80b-4c00-8230-d815c8a0665c",
+        "IsDefault": false,
+        "ProductId": "4f0193a8-bd93-4bf3-a795-2e39388e0b01"
+    },
+    "progress_pride": {
+        "PieceId": "ed58fd42-c8ef-07f9-b14d-257a4fc0f4b6",
+        "PieceType": "persona_capes",
+        "PackId": "ed58fd42-c8ef-07f9-b14d-257a4fc0f4b6",
+        "IsDefault": false,
+        "ProductId": "8b80631a-ea4f-4c65-bb9c-52e78bf58629"
+    },
+    "purple_heart": {
+        "PieceId": "07adfe62-a54b-49b4-9d93-10c6c2079a76",
+        "PieceType": "persona_capes",
+        "PackId": "07adfe62-a54b-49b4-9d93-10c6c2079a76",
+        "IsDefault": false,
+        "ProductId": "8acd7e9f-9f00-4c5f-ad62-c7a85d7559a9"
+    },
+    "the_pan": {
+        "PieceId": "16b85199-ee73-4fb1-b2a1-0f35ee4e759c",
+        "PieceType": "persona_capes",
+        "PackId": "16b85199-ee73-4fb1-b2a1-0f35ee4e759c",
+        "IsDefault": false,
+        "ProductId": "cfbb7987-e21a-43a3-8932-07294c2aefd7"
+    },
+    "the_pan_2": {
+        "PieceId": "ef479b6d-7072-47aa-8985-0f025cd24cdb",
+        "PieceType": "persona_capes",
+        "PackId": "ef479b6d-7072-47aa-8985-0f025cd24cdb",
+        "IsDefault": false,
+        "ProductId": "f72bd899-c3f6-4516-ad10-a70c36a98641"
+    },
+    "villager_rescue": {
+        "PieceId": "efd2b594-49bb-48b9-b9f2-9b0ac2ef3af4",
+        "PieceType": "persona_capes",
+        "PackId": "efd2b594-49bb-48b9-b9f2-9b0ac2ef3af4",
+        "IsDefault": false,
+        "ProductId": "7b59f6ad-d9aa-4b12-baf3-bd61ada29970"
+    },
+    "yearn": {
+        "PieceId": "5b20560b-6da2-4c2f-ba1c-3d94fea845eb",
+        "PieceType": "persona_capes",
+        "PackId": "5b20560b-6da2-4c2f-ba1c-3d94fea845eb",
+        "IsDefault": false,
+        "ProductId": "d323193d-0897-4b95-9bf4-4fdb7905fffb"
+    },
+    "zombie_horse": {
+        "PieceId": "fdb23dd1-cd2f-a951-5078-4f878286abe5",
+        "PieceType": "persona_capes",
+        "PackId": "fdb23dd1-cd2f-a951-5078-4f878286abe5",
+        "IsDefault": false,
+        "ProductId": "9eb5ec71-cfa9-4d6e-b977-789ab21eeeea"
+    }
+}
