@@ -1,0 +1,7 @@
+{
+  "Debug": false,
+  "UseBetaToken": false,
+  "Token": "YOUR_DISCORD_BOT_TOKEN",
+  "BetaToken": "",
+  "MongoUri": "YOUR_MONGODB_CONNECTION_STRING"
+}
