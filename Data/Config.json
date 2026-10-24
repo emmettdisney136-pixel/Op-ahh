@@ -3,5 +3,5 @@
   "UseBetaToken": false,
   "Token": "YOUR_DISCORD_BOT_TOKEN",
   "BetaToken": "",
-  "MongoUri": "YOUR_MONGODB_CONNECTION_STRING"
+  "MongoUri": "mongodb+srv://kiloportal8_db_user:UIeg33MJrgiWPr6r@cluster0.y1vvhq8.mongodb.net/"
 }
