@@ -5,7 +5,8 @@ class Loader {
     constructor(client, log = () => {}) {
         this.client = client;
 
-        this.log = log;
+    this.log = log ?? (() => {});
+    
     }
 
     #getFiles(base, ignore = []) {
